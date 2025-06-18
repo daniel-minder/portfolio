@@ -1,2 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg fill="#19d600" width="800px" height="800px" viewBox="-1 0 19 19" xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg"><path d="M16.417 9.579A7.917 7.917 0 1 1 8.5 1.662a7.917 7.917 0 0 1 7.917 7.917zm-4.233-1.805H9.259a.317.317 0 0 1-.317-.317v-2.9H5.16a.318.318 0 0 0-.317.317v9.368a.318.318 0 0 0 .317.316h6.707a.317.317 0 0 0 .317-.316zm-1.676 3.757L8.79 13.249a.396.396 0 0 1-.56 0L6.513 11.53a.396.396 0 0 1 .56-.56l1.041 1.042V8.399a.396.396 0 1 1 .792 0v3.614l1.042-1.042a.396.396 0 0 1 .56.56zm-.77-4.552h2.43l-2.43-2.416z"/></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg fill="#ff4538" width="800px" height="800px" viewBox="-1 0 19 19" xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" stroke="#ff4538" stroke-width="0.00019">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier">
+<path d="M16.417 9.579A7.917 7.917 0 1 1 8.5 1.662a7.917 7.917 0 0 1 7.917 7.917zm-4.233-1.805H9.259a.317.317 0 0 1-.317-.317v-2.9H5.16a.318.318 0 0 0-.317.317v9.368a.318.318 0 0 0 .317.316h6.707a.317.317 0 0 0 .317-.316zM6.599 6.212a.792.792 0 1 0 .791.792.792.792 0 0 0-.791-.792zm4.448 2.681H5.833v.792h5.214zm0 1.69H5.833v.792h5.214zm0 1.69H5.833v.792h5.214zM9.737 6.98h2.431l-2.43-2.416z"/>
+</g>
+</svg>
