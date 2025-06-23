@@ -1,0 +1,12 @@
+<svg fill="none" height="800px" width="800px" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-143 145 512 512" xml:space="preserve">
+  <!-- Duże niebieskie koło -->
+  <path fill="#dd0082" d="M113,145c-141.4,0-256,114.6-256,256s114.6,256,256,256s256-114.6,256-256S254.4,145,113,145z"></path>
+
+  <!-- Grupa z przesuniętym dokumentem -->
+  <g transform="translate(113 401) scale(20)">
+    <!-- Przesuwamy dokument tak, aby jego środek był w (0,0) grupy -->
+    <g transform="translate(-8.5 -9.5)">
+      <path fill="#ffffff" d="M16.417 9.579A7.917 7.917 0 1 1 8.5 1.662a7.917 7.917 0 0 1 7.917 7.917zm-4.233-1.805H9.259a.317.317 0 0 1-.317-.317v-2.9H5.16a.318.318 0 0 0-.317.317v9.368a.318.318 0 0 0 .317.316h6.707a.317.317 0 0 0 .317-.316zm-1.676 3.757L8.79 13.249a.396.396 0 0 1-.56 0L6.513 11.53a.396.396 0 0 1 .56-.56l1.041 1.042V8.399a.396.396 0 1 1 .792 0v3.614l1.042-1.042a.396.396 0 0 1 .56.56zm-.77-4.552h2.43l-2.43-2.416z"></path>
+    </g>
+  </g>
+</svg>
